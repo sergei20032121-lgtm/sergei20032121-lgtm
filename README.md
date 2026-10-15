@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Привет,%20я%20USERNAME&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Разработчик%20•%20Вечный%20студент%20•%20Автолюбитель&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Привет,%20я%20Комар!&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Разработчик%20•%20Вечный%20студент%20•%20Автолюбитель&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Пишу+код+и+разбираюсь+как+всё+устроено;Учу+низкоуровневое+программирование;Люблю+копаться+в+деталях" alt="Typing SVG" />
