@@ -1,4 +1,4 @@
-name: Generate Snake
+name: Generate profile images
 
 on:
   schedule:
@@ -23,6 +23,15 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
 
+      - uses: yoshi389111/github-profile-3d-contrib@v0.9.3
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
+      - name: Collect 3D images
+        run: cp -r profile-3d-contrib dist/
+
+      # Ветка output перезаписывается целиком, поэтому все картинки собираются в dist
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
