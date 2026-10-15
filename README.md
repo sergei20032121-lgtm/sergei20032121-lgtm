@@ -14,6 +14,15 @@
 
 ---
 
+## 👋 Обо мне
+
+- 🎓 Студент ПГНИУ, вечно что-то учу
+- ⚙️ Люблю низкоуровневое: C, C++, Linux и как всё устроено внутри
+- 🛠 Делаю инструменты, которыми пользуюсь сам: например, ЕТИС 3.0
+- 🚗 В свободное время копаюсь в машинах
+
+---
+
 ## 🧰 Стек
 
 <div align="center">
@@ -21,11 +30,42 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![CSS](https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
+
+---
+
+## 🚀 Проекты
+
+<table>
+<tr>
+<td>
+
+### [ЕТИС 3.0](https://github.com/sergei20032121-lgtm/etis3.0)
+
+Редизайн студенческого портала ПГНИУ ([student.psu.ru](https://student.psu.ru)): liquid glass, тёмная тема, умное расписание, заметки и ДЗ к парам, уведомления о новых оценках и сообщениях.
+
+Работает как расширение для браузера, userscript (в том числе на iPhone) и Android-приложение.
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![CSS](https://img.shields.io/badge/CSS-663399?style=flat-square&logo=css&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Release](https://img.shields.io/github/v/release/sergei20032121-lgtm/etis3.0?style=flat-square&color=8b5cf6)
+![Stars](https://img.shields.io/github/stars/sergei20032121-lgtm/etis3.0?style=flat-square&color=8b5cf6)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -38,7 +78,29 @@
 
 <img src="https://streak-stats.demolab.com?user=sergei20032121-lgtm&theme=tokyonight&hide_border=true&background=0d1117" />
 
+</div>
+
+<details>
+<summary><b>📈 График активности</b></summary>
+<br>
+<div align="center">
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sergei20032121-lgtm&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true" width="95%" />
+
+</div>
+</details>
+
+---
+
+## 🏙 Контрибуции в 3D
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sergei20032121-lgtm/sergei20032121-lgtm/output/profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sergei20032121-lgtm/sergei20032121-lgtm/output/profile-3d-contrib/profile-green-animate.svg" />
+  <img alt="3D contributions" src="https://raw.githubusercontent.com/sergei20032121-lgtm/sergei20032121-lgtm/output/profile-3d-contrib/profile-night-rainbow.svg" />
+</picture>
 
 </div>
 
