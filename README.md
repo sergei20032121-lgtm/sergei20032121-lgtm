@@ -1,11 +1,9 @@
-<!-- Замени USERNAME на свой ник на GitHub во всех ссылках -->
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Привет,%20я%20Комар!&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Разработчик%20•%20Вечный%20студент%20•%20Автолюбитель&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Пишу+код+и+разбираюсь+как+всё+устроено;Учу+низкоуровневое+программирование;Люблю+копаться+в+деталях" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=%D0%9F%D0%B8%D1%88%D1%83+%D0%BA%D0%BE%D0%B4+%D0%B8+%D1%80%D0%B0%D0%B7%D0%B1%D0%B8%D1%80%D0%B0%D1%8E%D1%81%D1%8C+%D0%BA%D0%B0%D0%BA+%D0%B2%D1%81%D1%91+%D1%83%D1%81%D1%82%D1%80%D0%BE%D0%B5%D0%BD%D0%BE;%D0%A3%D1%87%D1%83+%D0%BD%D0%B8%D0%B7%D0%BA%D0%BE%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D0%B5%D0%B2%D0%BE%D0%B5+%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5;%D0%9B%D1%8E%D0%B1%D0%BB%D1%8E+%D0%BA%D0%BE%D0%BF%D0%B0%D1%82%D1%8C%D1%81%D1%8F+%D0%B2+%D0%B4%D0%B5%D1%82%D0%B0%D0%BB%D1%8F%D1%85" alt="Typing SVG" />
 </a>
 
 </div>
@@ -36,7 +34,7 @@
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=sergei20032121-lgtm&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergei20032121-lgtm&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 
 <img src="https://streak-stats.demolab.com?user=sergei20032121-lgtm&theme=tokyonight&hide_border=true&background=0d1117" />
 
@@ -51,9 +49,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-snake.svg" />
-  <img alt="snake" src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sergei20032121-lgtm/sergei20032121-lgtm/output/github-snake-dark.svg?v=2" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sergei20032121-lgtm/sergei20032121-lgtm/output/github-snake.svg?v=2" />
+  <img alt="snake" src="https://raw.githubusercontent.com/sergei20032121-lgtm/sergei20032121-lgtm/output/github-snake-dark.svg?v=2" />
 </picture>
 
 </div>
@@ -62,7 +60,7 @@
 
 <div align="center">
 
-![Views](https://komarev.com/ghpvc/?username=USERNAME&color=blue&style=flat-square&label=Просмотры+профиля)
+![Views](https://komarev.com/ghpvc/?username=sergei20032121-lgtm&color=blue&style=flat-square&label=%D0%9F%D1%80%D0%BE%D1%81%D0%BC%D0%BE%D1%82%D1%80%D1%8B+%D0%BF%D1%80%D0%BE%D1%84%D0%B8%D0%BB%D1%8F)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer" width="100%"/>
 
